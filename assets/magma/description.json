@@ -1,0 +1,15 @@
+{
+    "en": {
+      "name": "Magma Wheel",
+      "description": "🔥 <color=#00ff00>+20% turnspeed</color>\n<color=#ff0000>Jump unavailable</color>"
+    },
+    "fr": {
+      "name": "Roue Magma",
+      "description": "🔥 <color=#00ff00>+20% direction</color>\n<color=#ff0000>Saut désactivé</color>"
+    },
+    "es": {
+      "name": "Rueda de Magma",
+      "description": "🔥 <color=#00ff00>+20% giro</color>\n<color=#ff0000>Salto deshabilitado</color>"
+    }
+  }
+  
