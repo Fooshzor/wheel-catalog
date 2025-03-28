@@ -1,0 +1,13 @@
+{
+    "acceleration": 10,
+    "maxSpeed": 16,
+    "friction": 5,
+    "turnSpeed": 7,
+    "jumpForce": 10,
+    "Gravity": 0.3,
+    "reboundFactor": 0.15,
+    "airFrictionFactor": 0.97,
+    "boostMultiplier": 2,
+    "maxBoostTime": 4,
+    "boostRegenRate": 0.6
+  }  
