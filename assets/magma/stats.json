@@ -4,7 +4,7 @@
     "friction": 4,
     "turnSpeed": 1.3,
     "jumpForce": 3,
-    "Gravity": 0.3,
+    "Gravity": 1.6,
     "reboundFactor": 0.1,
     "airFrictionFactor": 1,
     "boostMultiplier": 1.3,
