@@ -10,6 +10,7 @@
             },
             "defaultName": "Magma Wheel",
             "descriptionPath": "https://fooshzor.github.io/wheel-catalog/assets/magma/description.json",
+            "pricePath": "https://fooshzor.github.io/wheel-catalog/assets/magma/price.json",
             "statsPath": "https://fooshzor.github.io/wheel-catalog/assets/magma/stats.json"
           },          
       {
@@ -22,6 +23,7 @@
         },
         "defaultName": "Ice Wheel",
         "descriptionPath": "https://fooshzor.github.io/wheel-catalog/assets/ice/description.json",
+        "pricePath": "https://fooshzor.github.io/wheel-catalog/assets/ice/price.json",
         "statsPath": "https://fooshzor.github.io/wheel-catalog/assets/ice/stats.json"
       }
     ]
