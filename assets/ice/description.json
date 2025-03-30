@@ -1,15 +1,13 @@
 {
-    "en": {
-      "name": "Ice Wheel",
-      "description": "❄️ <color=#ff0000>-10% traction</color>\n<color=#00ff00>+25% speed</color>"
-    },
-    "fr": {
-      "name": "Roue Glacée",
-      "description": "❄️ <color=#ff0000>-10% adhérence</color>\n<color=#00ff00>+25% vitesse</color>"
-    },
-    "es": {
-      "name": "Rueda de Hielo",
-      "description": "❄️ <color=#ff0000>-10% tracción</color>\n<color=#00ff00>+25% velocidad</color>"
+    "localization": {
+      "en": {
+        "name": "Ice Wheel",
+        "description": "❄️ Slippery but fast."
+      },
+      "fr": {
+        "name": "Roue Glace",
+        "description": "❄️ Glissante mais rapide."
+      }
     }
   }
   
