@@ -16,7 +16,7 @@
       {
         "address": "Wheels/Wheel_Ice",
         "unlockId": "ice",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/7/70/User_icon_BLACK-01.png",
+        "icon": "https://fooshzor.github.io/wheel-catalog/assets/magma/icon.png",
         "sprites": {
           "pneu": "https://fooshzor.github.io/wheel-catalog/assets/ice/pneu.png",
           "chassis": "https://fooshzor.github.io/wheel-catalog/assets/ice/chassis.png"
