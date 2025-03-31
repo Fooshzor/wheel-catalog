@@ -3,7 +3,7 @@
         {
             "address": "Wheels/Wheel_Magma",
             "unlockId": "magma",
-            
+            "version": "1.0.0",            
             "sprites": {
               "pneu": "https://fooshzor.github.io/wheel-catalog/assets/magma/pneu.png",
                 "icon": "https://fooshzor.github.io/wheel-catalog/assets/magma/icon.png",
@@ -17,7 +17,7 @@
       {
         "address": "Wheels/Wheel_Ice",
         "unlockId": "ice",
-        
+        "version": "1.0.0",
         "sprites": {
           "pneu": "https://fooshzor.github.io/wheel-catalog/assets/ice/pneu.png",
             "icon": "https://fooshzor.github.io/wheel-catalog/assets/magma/icon.png",
