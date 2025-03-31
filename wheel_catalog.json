@@ -1,26 +1,25 @@
 {
+    "version": "1.0.0",
     "wheels": [
-        {
-            "address": "Wheels/Wheel_Magma",
-            "unlockId": "magma",
-            "version": "https://fooshzor.github.io/wheel-catalog/assets/magma/version.json",            
-            "sprites": {
-              "pneu": "https://fooshzor.github.io/wheel-catalog/assets/magma/pneu.png",
-                "icon": "https://fooshzor.github.io/wheel-catalog/assets/magma/icon.png",
-              "chassis": "https://fooshzor.github.io/wheel-catalog/assets/magma/chassis.png"
-            },
-            "defaultName": "Magma Wheel",
-            "descriptionPath": "https://fooshzor.github.io/wheel-catalog/assets/magma/description.json",
-            "pricePath": "https://fooshzor.github.io/wheel-catalog/assets/magma/price.json",
-            "statsPath": "https://fooshzor.github.io/wheel-catalog/assets/magma/stats.json"
-          },          
+      {
+        "address": "Wheels/Wheel_Magma",
+        "unlockId": "magma",
+        "sprites": {
+          "pneu": "https://fooshzor.github.io/wheel-catalog/assets/magma/pneu.png",
+          "icon": "https://fooshzor.github.io/wheel-catalog/assets/magma/icon.png",
+          "chassis": "https://fooshzor.github.io/wheel-catalog/assets/magma/chassis.png"
+        },
+        "defaultName": "Magma Wheel",
+        "descriptionPath": "https://fooshzor.github.io/wheel-catalog/assets/magma/description.json",
+        "pricePath": "https://fooshzor.github.io/wheel-catalog/assets/magma/price.json",
+        "statsPath": "https://fooshzor.github.io/wheel-catalog/assets/magma/stats.json"
+      },
       {
         "address": "Wheels/Wheel_Ice",
         "unlockId": "ice",
-        "version": "https://fooshzor.github.io/wheel-catalog/assets/ice/description.json",
         "sprites": {
           "pneu": "https://fooshzor.github.io/wheel-catalog/assets/ice/pneu.png",
-            "icon": "https://fooshzor.github.io/wheel-catalog/assets/ice/icon.png",
+          "icon": "https://fooshzor.github.io/wheel-catalog/assets/ice/icon.png",
           "chassis": "https://fooshzor.github.io/wheel-catalog/assets/ice/chassis.png"
         },
         "defaultName": "Ice Wheel",
